@@ -118,8 +118,9 @@ public class Javalt implements appliquerEffet {
 		case("vie"):
 			this.PV+=30;
 		case("degat"):
-			this.
-
+			this.degatJavalt+=30;
+		case("immunite"):
+			}
 			
 		// TODO Auto-generated method stub
 		
